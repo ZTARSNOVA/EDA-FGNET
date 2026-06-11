@@ -18,10 +18,11 @@ Este proyecto utiliza el FGNET Dataset:
 - **Licencia**: MIT
 
 <div align="center">
-<img width="722" height="328" alt="dataset-cover" src="https://github.com/user-attachments/assets/b6d5fc4e-bdd6-40f3-8c8a-f981c89c340f" />
+<img width="723" height="331" alt="dataset-cover" src="https://github.com/user-attachments/assets/6e84bec0-8038-43a8-8c68-69752dead1d7" />
+
 </div>
 
-##Librerías 
+## Librerías 
 
 ```python
 #Librerias
