@@ -18,7 +18,34 @@ Este proyecto utiliza el FGNET Dataset:
 - **Licencia**: MIT
 
 <div align="center">
-<img width="723" height="331" alt="dataset-cover" src="https://github.com/user-attachments/assets/7e4c657c-af81-47ae-99ca-62d44fdf976d" />
-
-
+<img width="722" height="328" alt="dataset-cover" src="https://github.com/user-attachments/assets/b6d5fc4e-bdd6-40f3-8c8a-f981c89c340f" />
 </div>
+
+##Librerías 
+
+```python
+#Librerias
+
+import pandas as pd
+import os
+import matplotlib.pyplot as plt
+import cv2
+from PIL import Image
+from pathlib import Path 
+from deepface import DeepFace
+from tqdm import tqdm
+import seaborn as sns 
+
+import warnings
+warnings.filterwarnings('ignore')
+```
+
+## Descargar librerías 
+- Permite extraer características faciales, como detectar el sexo de las imágenes del dataset FGNET
+
+- 'tqdm' Visualizar el avance durante el análisis de las 1002 imágenes con DeepFace
+
+```python
+!pip3 install deepface tensorflow tqdm
+```
+
