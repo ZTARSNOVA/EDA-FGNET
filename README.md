@@ -5,7 +5,7 @@ El presente análisis exploratorio de datos multimedia utilizando aprendizaje es
 
 -----------------------------------------------------
 
- _💡Este proyecto fue desarrollado como parte de una asignación evaluada para el curso de Análisis Exploratorio de Datos I de la Universidad San Ignacio de Loyola._
+ _💡Este proyecto fue desarrollado como parte de una asignación evaluada para el curso de Análisis Exploratorio de Datos I de la Universidad San Ignacio de Loyola (USIL)._
 
 -----------------------------------------------------
 
